@@ -58,8 +58,8 @@ interests:
 education:
   - area: MSE Computer Science
     institution: University of Pennsylvania
-    date_start: 2023-01
-    date_end: 2025-05
+    date_start: 2023-01-01
+    date_end: 2025-05-01
     summary: |
       GPA: 3.97/4.00
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -68,8 +68,8 @@ education:
     #   url: 'https://example.com'
   - area: BSE Computer Science
     institution: University of Pennsylvania
-    date_start: 2021-08
-    date_end: 2025-05
+    date_start: 2021-08-01
+    date_end: 2025-05-01
     summary: |
       GPA: 3.99/4.00
 
